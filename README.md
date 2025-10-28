@@ -77,9 +77,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 ***
 
-## 📄 License
 
-Distributed under the **MIT License**. See `LICENSE.txt` for more information. *(Note: Add a LICENSE.txt file to the repo if not present).*
 
 ***
 
